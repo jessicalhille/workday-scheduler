@@ -25,6 +25,8 @@ The challenge was to create a simple calendar application that allows a user to 
 
 ***
 
+<img width="1339" alt="Screen Shot 2021-11-20 at 9 01 02 PM" src="https://user-images.githubusercontent.com/91511805/142747749-22857f91-cca7-4728-8de5-6bc2ad654c97.png">
+
 ***
 
 ## Link to Deployed Application
